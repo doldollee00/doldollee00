@@ -20,6 +20,7 @@
 <h3 align="center">🛠 Tools 🛠 </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/intelliJ-21BDDB?style=flat&logo=intellijidea&logoColor=white"/>&nbsp
 </div>
 
