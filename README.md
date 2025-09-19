@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=2ecc71&text=%20Dinga%20&fontAlign=30&fontSize=50&textBg=true&desc=Backend%20Engineer%20·%20APIs%20%7C%20Databases%20%7C%20DevOps&descAlign=60&descAlignY=70&descSize=22&fontColor=ffffff&height=120
 )
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:1abc9c,100:2ecc71&text=%20Dinga%20Backend%20⚙️&fontAlign=30&fontSize=48&textBg=true&desc=APIs%20%7C%20Microservices%20%7C%20SQL%2FNoSQL&descAlign=60&descAlignY=72&descSize=20&fontColor=ffffff&height=130
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&text=Dinga's%20Backend%20Galaxy&fontSize=45&animation=twinkling&fontAlign=70&fontAlignY=35&fontColor=ffffff
 )
 
 
