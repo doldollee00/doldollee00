@@ -10,12 +10,16 @@
 <h3 align="center"><b>Code Lang</b></h3>
 <div align="center">
 <img src="https://img.shields.io/badge/Spring-3DDC84?style=flat&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/JAVA-C00000?style=flat&logo=JAVA&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/intelliJ-21BDDB?style=flat&logo=intellijidea&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-C00000?style=flat&logo=JAVA&logoColor=white"/>
+<img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-1ED760?style=flat&logo=AWS&logoColor=white"/>
+
+
+
 
 
 
