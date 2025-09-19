@@ -21,6 +21,11 @@
 
 <br><br>
 
+<h3 align="center">📚 Contact 📚</h3>
+  <img src="https://img.shields.io/badge/tistory-000000?style=flat&logo=tistory&logoColor=white"/>&nbsp
+<div align="center">
+ 
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=doldollee00&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical" alt="Anurag's GitHub stats" width="450"/>
