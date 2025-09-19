@@ -1,4 +1,4 @@
-![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20Backend%20&fontAlign=30&fontSize=45&textBg=true&desc=개발자의%20%27Github%20%27&descAlign=60&descAlignY=50).
+![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20Backend%20&fontAlign=30&fontSize=45&textBg=true&desc=개발자의%20%27Github%20%27&descAlign=60&descAlignY=50&descSize=25).
 
 ![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20Backend%20&fontAlign=30&fontSize=45&textBg=true&desc=개발자의%20'Github'%20&descAlign=60&descAlignY=50&descSize=25).
 
