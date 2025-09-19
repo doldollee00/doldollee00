@@ -1,4 +1,4 @@
-![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20Backend%20%20&fontAlign=30&fontSize=50&textBg=true&desc=개발자의%20%25Github%20%25&descAlign=60&descAlignY=50).
+![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20Backend%20%20&fontAlign=30&fontSize=45&textBg=true&desc=개발자의%20%25Github%20%25&descAlign=60&descAlignY=50).
 
 ![wave](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&text=WAVE)
 ## Hi there 👋
