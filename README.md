@@ -6,7 +6,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinga&layout=compact)
 
-[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=doldollee00)](https://solved.ac/doldollee00) 
 
 
 <h3 align="center"><b>Code Lang</b></h3>
