@@ -35,13 +35,8 @@
 <br><br>
 
 
-
-<br><br>
-
 <h3 align="center">📚 Contact 📚</h3>
-  <img src="https://img.shields.io/badge&logo=tistory&logoColor=white"/>&nbsp
-<div align="center">
- 
+<img src="https://img.shields.io/badge&logo=tistory&logoColor=white"/>&nbsp 
 </div>
 
 <div align="center">
