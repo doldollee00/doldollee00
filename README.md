@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=Dinga's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=50&fontAlignY=36" />
 </div>
-
+## Hi there 👋
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -39,46 +39,5 @@
 
 <br><br>
 
-<h3 align="center">📚 Contact 📚</h3>
-  <a href="https://dinga87.tistory.com/" target="_blank" rel="noreferrer"> <img src="https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&amp;fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2F3V0VO%2FbtrjYhhGHwp%2FAAAAAAAAAAAAAAAAAAAAAAIT7Rez7E4MHrdSRRQPMpPu__krlrCzEnTxd3mlmAyn%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1759244399%26allow_ip%3D%26allow_referer%3D%26signature%3DIRng7NxW4xpbRvVp6PXlK9YCq38%253D" width="40" height="40"/> </a>
-</div>
 
 
-<p align="left"> 
-   
-  <a href="https://www.notion.so/bfd32bb360d945468df5111b668dcab6" target="_blank" rel="noreferrer"> <img src="http://www.w3.org/2000/svg" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Hi there 👋
-
-<!--
-**doldollee00/doldollee00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
