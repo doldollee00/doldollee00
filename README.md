@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=Dinga's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinga&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doldollee00&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinga&layout=compact)
