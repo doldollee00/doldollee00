@@ -10,6 +10,8 @@
 <h3 align="center"><b>Code Lang</b></h3>
 <div align="center">
 <img src="https://img.shields.io/badge/Spring-3DDC84?style=flat&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-#A8B9CC?style=flat&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-3DDC84?style=flat&logo=spring&logoColor=white"/>
 
 
 </div>
