@@ -22,7 +22,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=doldollee00&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical" alt="Anurag's GitHub stats" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doldollee00&layout=compact" alt="Top Langs" width="320"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doldollee00&layout=compact" alt="Top Langs" width="300"/>
 </div>
 
 
