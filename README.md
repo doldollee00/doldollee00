@@ -3,7 +3,6 @@
 </div>
 
 
-
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Spring-3DDC84?style=flat&logo=spring&logoColor=white"/>&nbsp
@@ -31,31 +30,22 @@
   <img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white"/>&nbsp
 </div>
  
-
 <br><br>
-
-
-<h3 align="center">📚 Contact 📚</h3>
-<img src="https://img.shields.io/badge&logo=tistory&logoColor=white"/>&nbsp 
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=doldollee00&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical" alt="Anurag's GitHub stats" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doldollee00&layout=compact" alt="Top Langs" width="310"/>
 </div>
 
+<br><br>
+
+<h3 align="center">📚 Contact 📚</h3>
+
+</div>
 
 
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://dinga87.tistory.com/" target="_blank" rel="noreferrer"> <img src="https://t1.daumcdn.net/cfile/tistory/9931DF3D5B95428108" alt="aws" width="40" height="40"/> </a> 
+  <a href="https://dinga87.tistory.com/" target="_blank" rel="noreferrer"> <img src="https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&amp;fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2F3V0VO%2FbtrjYhhGHwp%2FAAAAAAAAAAAAAAAAAAAAAAIT7Rez7E4MHrdSRRQPMpPu__krlrCzEnTxd3mlmAyn%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1759244399%26allow_ip%3D%26allow_referer%3D%26signature%3DIRng7NxW4xpbRvVp6PXlK9YCq38%253D" alt="aws" width="40" height="40"/> </a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
