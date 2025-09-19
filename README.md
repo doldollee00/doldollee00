@@ -40,7 +40,7 @@
 <br><br>
 
 <h3 align="center">📚 Contact 📚</h3>
-  <a href="https://dinga87.tistory.com/" target="_blank" rel="noreferrer"> <img src="https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&amp;fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2F3V0VO%2FbtrjYhhGHwp%2FAAAAAAAAAAAAAAAAAAAAAAIT7Rez7E4MHrdSRRQPMpPu__krlrCzEnTxd3mlmAyn%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1759244399%26allow_ip%3D%26allow_referer%3D%26signature%3DIRng7NxW4xpbRvVp6PXlK9YCq38%253D"/> </a>
+  <a href="https://dinga87.tistory.com/" target="_blank" rel="noreferrer"> <img src="https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&amp;fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2F3V0VO%2FbtrjYhhGHwp%2FAAAAAAAAAAAAAAAAAAAAAAIT7Rez7E4MHrdSRRQPMpPu__krlrCzEnTxd3mlmAyn%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1759244399%26allow_ip%3D%26allow_referer%3D%26signature%3DIRng7NxW4xpbRvVp6PXlK9YCq38%253D" width="40" height="40"/> </a>
 </div>
 
 
