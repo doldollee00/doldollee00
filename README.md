@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=Dinga's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:e0fff9,100:a8edea&height=200&text=Dinga's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1abc9c,100:2ecc71&height=200&text=Dinga's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36&fontColor=ffffff)
 
 
 
