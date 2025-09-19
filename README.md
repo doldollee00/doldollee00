@@ -20,21 +20,24 @@
 <br><br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doldollee00&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical)
+<div align="center">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doldollee00&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doldollee00&layout=compact)
+</div>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doldollee00&layout=compact)
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=Dinga's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
+
+
+
+
+
+
 
 <div align="center">
  
 </div>
 
-
-
-</div>
 
 
 
