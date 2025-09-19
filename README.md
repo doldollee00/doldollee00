@@ -15,15 +15,23 @@
 <div align="center">
   <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/intelliJ-21BDDB?style=flat&logo=intellijidea&logoColor=white"/>&nbsp
+  
+ 
 </div>
 
+<h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
+ 
+</div>
+
+<br><br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/intelliJ-21BDDB?style=flat&logo=intellijidea&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/AWS-1ED760?style=flat&logo=AWS&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white"/>&nbsp
-  
 </div>
 
 <br><br>
@@ -65,9 +73,7 @@
 
 
 
-<div align="center">
- 
-</div>
+
 
 
 
