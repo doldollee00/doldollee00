@@ -14,6 +14,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/intelliJ-21BDDB?style=flat&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/>
 
 
 
