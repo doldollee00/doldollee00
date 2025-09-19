@@ -22,7 +22,7 @@
 <br><br>
 
 <h3 align="center">📚 Contact 📚</h3>
-  <img src="https://img.shields.io/badge/tistory-000000?style=flat&logo=tistory&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge?style=flat&logo=tistory&logoColor=white"/>&nbsp
 <div align="center">
  
 </div>
