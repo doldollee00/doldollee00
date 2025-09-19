@@ -1,12 +1,5 @@
 ![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20Backend%20&fontAlign=30&fontSize=40&textBg=true&desc=개발자의%20%27Github%20%27&descAlign=60&descAlignY=50&descSize=30).
 
-![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20Backend%20&fontAlign=30&fontSize=45&textBg=true&desc=개발자의%20'Github'%20&descAlign=60&descAlignY=50&descSize=25).
-
-
-
-
-![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20RECT%20%20&fontAlign=30&fontSize=30&textBg=true&desc=Use%20%27textBg%27%20to%20highlight%20%27text%27&descAlign=60&descAlignY=50)
-
 ## Hi there 👋
 
 <!--
