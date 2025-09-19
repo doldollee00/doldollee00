@@ -15,9 +15,9 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/>&nbsp
-  
- 
 </div>
+
+<br>
 
 <h3 align="center">🛠 Tools 🛠 </h3>
 <div align="center">
