@@ -1,5 +1,5 @@
 ![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20Dinga%20&fontAlign=30&fontSize=40&textBg=true&desc=%20%27Github%20%27&descAlign=60&descAlignY=50&descSize=30).
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=Dinga's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=120&height=200&text=Dinga's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinga&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical)
 
