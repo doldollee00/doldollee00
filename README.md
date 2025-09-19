@@ -1,12 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=Dinga's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2c3e50&height=200&text=Dinga's%20Backend%20Universe&fontSize=45&animation=twinkling&fontAlign=68&fontAlignY=35&fontColor=FFD700
-)
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:FFA500&height=200&text=Dinga's%20Galaxy%20of%20Code&fontSize=45&animation=twinkling&fontAlign=68&fontAlignY=35&fontColor=ffffff
-)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinga&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical)
 
 
