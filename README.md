@@ -21,7 +21,7 @@
 
 
 <div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doldollee00&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doldollee00&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doldollee00&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical) &nbsp ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doldollee00&layout=compact)
 </div>
 
 
