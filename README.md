@@ -1,4 +1,4 @@
-![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20Backend%20&fontAlign=30&fontSize=40&textBg=true&desc=개발자의%20%27Github%20%27&descAlign=60&descAlignY=50&descSize=30).
+![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20Dinga%20&fontAlign=30&fontSize=40&textBg=true&desc=%20%27Github%20%27&descAlign=60&descAlignY=50&descSize=30).
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinga&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical)
