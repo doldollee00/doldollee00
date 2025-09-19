@@ -7,9 +7,11 @@
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dinga&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical)
 
-[radical]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical
+
+
+
 
 
 ## Hi there 👋
